@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Spring-AOP">
+    <CLASSES>
+      <root url="jar://F:/JavaWeb/Spring4/spring-jars/aopalliance-1.0.jar!/" />
+      <root url="jar://F:/JavaWeb/Spring4/spring-jars/commons-logging-1.2.jar!/" />
+      <root url="jar://F:/JavaWeb/Spring4/spring-jars/spring-aop-4.3.12.RELEASE.jar!/" />
+      <root url="jar://F:/JavaWeb/Spring4/spring-jars/spring-aspects-4.3.12.RELEASE.jar!/" />
+      <root url="jar://F:/JavaWeb/Spring4/spring-jars/spring-beans-4.3.12.RELEASE.jar!/" />
+      <root url="jar://F:/JavaWeb/Spring4/spring-jars/spring-context-4.3.12.RELEASE.jar!/" />
+      <root url="jar://F:/JavaWeb/Spring4/spring-jars/spring-context-support-4.3.12.RELEASE.jar!/" />
+      <root url="jar://F:/JavaWeb/Spring4/spring-jars/spring-core-4.3.12.RELEASE.jar!/" />
+      <root url="jar://F:/JavaWeb/Spring4/spring-jars/spring-expression-4.3.12.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
